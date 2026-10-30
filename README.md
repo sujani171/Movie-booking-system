@@ -47,10 +47,6 @@ Their are two access-views of the website :
 
 
 
-## Installation
-
-### Clone 
-- Clone the repository to your local machine using git clone using `https://github.com/prajwal714/Movie-Booking-and-Recommendation-Website.git`
 
 ### Setup
 - Run `npm install` to install all the packages and dependencies
@@ -61,9 +57,5 @@ Their are two access-views of the website :
 
 
 
-## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
