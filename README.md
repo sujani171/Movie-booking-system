@@ -3,8 +3,9 @@
 **Movie Booking and Recommendation Website**
 [![Movie Booking Website](/sample/movie_booking.gif)]()
 
-# Movie-Booking-WebApp
-I built this web application in my sophomore year under Winter Project competition organized by AASF (programming club of the institute). At the end of the competition I secured rank 1 out of the 50+ participants.
+# Movie-Booking-System
+I built this web application for my college project 
+
 ## Technology Stack
 - NodeJS
 - Express
